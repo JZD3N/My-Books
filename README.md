@@ -1,2 +1,3 @@
-## My books collection 
-	This repo contains my life changing books 
+## My Books
+	This repo contains motivation changing books 
+	
